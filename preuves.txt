@@ -1,0 +1,14 @@
+J06 — Preuve d’exécution
+
+
+Commande réellement lancée dans Windows PowerShell :
+node .\depenses.js
+
+Sortie obtenue après avoir terminé le programme :
+total:14500 F CFA
+moyenne: 2071.43 FCFA
+Les depenses au-dessus de 2000 F CFA sont:  2500,4000,2500,3000
+Maximum : 4000 F CFA
+
+Archive à remettre : J06_Nom_Prenom.zip
+Contenu attendu : depenses.js et preuves.txt
